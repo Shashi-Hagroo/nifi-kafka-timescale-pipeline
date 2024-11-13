@@ -1,0 +1,19 @@
+# Kafka and message processing
+kafka-python==2.0.2
+jsonschema==4.19.0
+
+# PostgreSQL and TimescaleDB database connector
+psycopg2-binary==2.9.6
+
+# Data processing and transformation
+pandas==2.1.1
+numpy==1.26.0
+
+# Date and time manipulation
+python-dateutil==2.8.2
+
+# Logging and debugging
+loguru==0.7.0
+
+# Optional: dotenv for environment variable management (if you use .env files)
+python-dotenv==1.0.0
